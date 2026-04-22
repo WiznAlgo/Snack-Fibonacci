@@ -1,0 +1,15 @@
+{
+  "name": "Snack Fibonacci",
+  "short_name": "Snack Fibonacci",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFCF8",
+  "theme_color": "#141414",
+  "icons": [
+    {
+      "src": "/images/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
