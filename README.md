@@ -1,20 +1,59 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="Snack Fibonacci Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Snack Fibonacci
 
-This contains everything you need to run your app locally.
+**Snack Fibonacci** is a modern product landing page for a school business concept that turns a simple macaroni snack into a memorable digital brand experience.
 
-View your app in AI Studio: https://ai.studio/apps/710e2a3b-3213-4d1e-8f7f-a766b31320b0
+Built with **React**, **TypeScript**, and **Vite**, this project presents Snack Fibonacci with a bold visual identity, curated product variants, Instagram-style gallery sections, and direct WhatsApp pre-order contact buttons.
 
-## Run Locally
+## ✨ Overview
 
-**Prerequisites:**  Node.js
+Snack Fibonacci is more than just a snack promo page.  
+It is designed as an **edu-business showcase** that combines branding, storytelling, and product presentation in one responsive website.
 
+The project highlights:
+- a strong hero section with brand identity
+- product variant cards for each macaroni flavor
+- business concept storytelling
+- Instagram-style visual gallery
+- direct call-to-action for pre-orders via WhatsApp
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Features
+
+- Responsive landing page design
+- Animated sections using Motion
+- Product showcase with 3 featured variants:
+  - Original
+  - Spicy
+  - Spiral
+- Instagram-inspired visual gallery
+- Poster / business concept section
+- Direct WhatsApp contact buttons
+- Custom favicon and web app manifest support
+- Built with reusable React components
+
+## 🛠️ Tech Stack
+
+- **React 19**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS v4**
+- **Motion**
+- **Lucide React**
+
+## 📁 Project Structure
+
+```bash
+snack-fibonacci/
+├── public/
+│   └── manifest.webmanifest
+├── src/
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+├── index.html
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
