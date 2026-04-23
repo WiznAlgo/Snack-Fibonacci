@@ -266,7 +266,7 @@ export default function App() {
 
       <section id="order" className="py-32 px-4 bg-balance-dark text-balance-bg relative z-10 border-t border-balance-dark">
         <div className="max-w-[90%] 2xl:max-w-7xl mx-auto text-center">
-          <span className="text-[10px] uppercase font-bold tracking-widest text-balance-gold mb-6 block">Ready for September 2026</span>
+          <span className="text-[10px] uppercase font-bold tracking-widest text-balance-gold mb-6 block">Ready Since for September 2025</span>
           <h2 className="font-display italic font-medium text-5xl lg:text-7xl mb-8">
             Jadilah <span className="text-balance-gold">Yang Pertama.</span>
           </h2>
@@ -307,7 +307,7 @@ export default function App() {
             <ul className="space-y-3 text-sm">
               <li>+62 822 3341 2942 (Wisnu)</li>
               <li>+62 858 5464 7014 (Dovan)</li>
-              <li className="text-balance-gold pt-2">Launching Sept 2026</li>
+              <li className="text-balance-gold pt-2">Launching Since Sept 2025</li>
             </ul>
           </div>
         </div>
