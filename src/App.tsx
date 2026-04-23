@@ -271,7 +271,7 @@ export default function App() {
             Jadilah <span className="text-balance-gold">Yang Pertama.</span>
           </h2>
           <p className="text-xl mb-12 font-light max-w-2xl mx-auto opacity-80">
-            Kunci slot pre-order awalmu. Hubungi admin kami untuk menjadi bagian dari kloter produksi pertama.
+            Kunci slot pre-order awalmu. Hubungi admin kami untuk menjadi bagian dari kloter produksi selanjutnya.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center">
